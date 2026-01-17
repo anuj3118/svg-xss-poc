@@ -1,1 +1,1 @@
-<iframe src="http://169.254.169.254/latest/meta-data/" width="1" height="1"></iframe>
+<iframe src="http://127.0.0.1" width="1" height="1"></iframe>
